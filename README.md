@@ -40,7 +40,7 @@ The AI-Based Network Traffic Analyzer is a cybersecurity solution that leverages
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/ai-network-analyzer.git
+   git clone https://github.com/CHHemant/ai-network-analyzer.git
    cd ai-network-analyzer
    ```
 2. Install requirements:
